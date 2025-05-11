@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "azure-identity>=1.22.0",
+    "dotenv>=0.9.9",
     "semantic-kernel>=1.29.0",
 ]
