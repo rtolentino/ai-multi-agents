@@ -1,0 +1,10 @@
+[project]
+name = "ai-multi-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-identity>=1.22.0",
+    "semantic-kernel>=1.29.0",
+]
